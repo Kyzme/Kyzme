@@ -13,8 +13,7 @@ I am a systems engineering student, currently in second semester, besides that, 
 - Outside of technology, 🎮I love playing video games, and🎵 listening to music.
 - 📫 Get in touch with me at: kyzme.dev@proton.me
 
-**“If you can imagine it, you can program it.”** - Alan kay.
-
+**“If you can imagine it, you can program it.”** 
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
