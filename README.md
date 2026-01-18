@@ -4,7 +4,7 @@
 
 ***About me***
 
-I am a systems engineering student, currently in second semester, besides that, I have a technical degree as an information systems analyst and developer. **I am expanding my knowledge in front-end and back-end development**, and I work as a freelance software developer. I love learning new topics and creative technologies.
+I am a systems engineering student, currently in fifth semester, besides that, I have a technical degree as an information systems analyst and developer. **I am expanding my knowledge in front-end and back-end development**, and I work as a freelance software developer. I love learning new topics and creative technologies.
 
 - 🌱 I am currently learning ....
   - React
